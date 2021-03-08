@@ -10,8 +10,8 @@ export function Red() {
 		}
 	}
 	return (
-		<div className="text-center mt-5">
-			<button onClick={change}>{redLight}</button>
+		<div className="light">
+			<button onClick={change1}>{redLight}</button>
 		</div>
 	);
 }

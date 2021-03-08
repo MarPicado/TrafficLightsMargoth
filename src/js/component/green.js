@@ -11,8 +11,8 @@ export function Green() {
 		}
 	}
 	return (
-		<div className="text-center mt-5">
-			<button onClick={change}>{greenLight}</button>
+		<div className="light">
+			<button onClick={change3}>{greenLight}</button>
 		</div>
 	);
 }
