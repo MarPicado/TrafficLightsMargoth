@@ -21,9 +21,25 @@
 }
 
 .light{
-     width: 200px;
+    width: 200px;
     height: 200px;
     border-radius: 50%;
     margin: auto;
     margin-top: 7px;
+}
+
+.red{
+    background: red;
+}
+
+.yellow{
+    background: yellow;
+}
+
+.green{
+    background: green
+}
+
+.glow{
+    border: 5px solid lightgray ;
 }
